@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lecon\\Downloads\\ApiProxy\\ApiProxy\\ApiProxy.csproj": {}
+    "D:\\FIS\\ApiProxy\\ProxyNetCore\\ApiProxy\\ApiProxy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lecon\\Downloads\\ApiProxy\\ApiProxy\\ApiProxy.csproj": {
+    "D:\\FIS\\ApiProxy\\ProxyNetCore\\ApiProxy\\ApiProxy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lecon\\Downloads\\ApiProxy\\ApiProxy\\ApiProxy.csproj",
+        "projectUniqueName": "D:\\FIS\\ApiProxy\\ProxyNetCore\\ApiProxy\\ApiProxy.csproj",
         "projectName": "ApiProxy",
-        "projectPath": "C:\\Users\\lecon\\Downloads\\ApiProxy\\ApiProxy\\ApiProxy.csproj",
+        "projectPath": "D:\\FIS\\ApiProxy\\ProxyNetCore\\ApiProxy\\ApiProxy.csproj",
         "packagesPath": "C:\\Users\\lecon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lecon\\Downloads\\ApiProxy\\ApiProxy\\obj\\",
+        "outputPath": "D:\\FIS\\ApiProxy\\ProxyNetCore\\ApiProxy\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
