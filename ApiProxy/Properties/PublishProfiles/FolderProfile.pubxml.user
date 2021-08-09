@@ -5,6 +5,6 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <_PublishTargetUrl>C:\ApiProxy</_PublishTargetUrl>
-    <History>True|2021-06-15T08:17:41.4124740Z;True|2021-06-15T12:40:42.7286515+07:00;</History>
+    <History>True|2021-07-16T08:25:22.7623307Z;True|2021-07-05T12:44:11.4121487+07:00;True|2021-06-15T15:17:41.4124740+07:00;True|2021-06-15T12:40:42.7286515+07:00;</History>
   </PropertyGroup>
 </Project>
